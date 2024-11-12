@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("cruddb.sql")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("models/model1.context.tt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("models/model1.tt")]
 

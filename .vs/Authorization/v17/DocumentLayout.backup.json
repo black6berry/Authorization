@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MikeV\\source\\repos\\Authorization\\",
+  "WorkspaceRootPath": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\Users\\MikeV\\source\\repos\\Authorization\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\Users\\MikeV\\source\\repos\\Authorization\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|c:\\users\\mikev\\source\\repos\\authorization\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|c:\\777_mike_777\\mgok\\template\\authorization2\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\Users\\MikeV\\source\\repos\\Authorization\\pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|c:\\users\\mikev\\source\\repos\\authorization\\helpers\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\helpers\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:helpers\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\Users\\MikeV\\source\\repos\\Authorization\\pages\\user\\usermainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\pages\\user\\usermainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:pages\\user\\usermainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\Users\\MikeV\\source\\repos\\Authorization\\pages\\user\\usermainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\pages\\user\\usermainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:pages\\user\\usermainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\Users\\MikeV\\source\\repos\\Authorization\\helpers\\navigating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\helpers\\navigating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09334E68-98B2-416E-AED8-274B6CABA7BD}|Authorization.csproj|solutionrelative:helpers\\navigating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 463,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,35 +96,33 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Helpers\\UserData.cs",
+              "DocumentMoniker": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Helpers\\UserData.cs",
               "RelativeDocumentMoniker": "Helpers\\UserData.cs",
-              "ToolTip": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Helpers\\UserData.cs",
+              "ToolTip": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Helpers\\UserData.cs",
               "RelativeToolTip": "Helpers\\UserData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:01:54.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T09:01:54.52Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AuthorizationPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Pages\\AuthorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Pages\\AuthorizationPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\AuthorizationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Pages\\AuthorizationPage.xaml.cs",
+              "ToolTip": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Pages\\AuthorizationPage.xaml.cs",
               "RelativeToolTip": "Pages\\AuthorizationPage.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAEwDMAAACqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T15:13:34.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T15:13:34.06Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UserMainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Pages\\User\\UserMainPage.xaml.cs",
+              "DocumentMoniker": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Pages\\User\\UserMainPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\User\\UserMainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Pages\\User\\UserMainPage.xaml.cs",
+              "ToolTip": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Pages\\User\\UserMainPage.xaml.cs",
               "RelativeToolTip": "Pages\\User\\UserMainPage.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,21 +132,20 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UserMainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Pages\\User\\UserMainPage.xaml",
+              "DocumentMoniker": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Pages\\User\\UserMainPage.xaml",
               "RelativeDocumentMoniker": "Pages\\User\\UserMainPage.xaml",
-              "ToolTip": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Pages\\User\\UserMainPage.xaml",
+              "ToolTip": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Pages\\User\\UserMainPage.xaml",
               "RelativeToolTip": "Pages\\User\\UserMainPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T15:29:59.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T15:29:59.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AuthorizationPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Pages\\AuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Pages\\AuthorizationPage.xaml",
               "RelativeDocumentMoniker": "Pages\\AuthorizationPage.xaml",
-              "ToolTip": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Pages\\AuthorizationPage.xaml",
+              "ToolTip": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Pages\\AuthorizationPage.xaml",
               "RelativeToolTip": "Pages\\AuthorizationPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-08T15:09:48.617Z",
@@ -158,9 +155,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Navigating.cs",
-              "DocumentMoniker": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Helpers\\Navigating.cs",
+              "DocumentMoniker": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Helpers\\Navigating.cs",
               "RelativeDocumentMoniker": "Helpers\\Navigating.cs",
-              "ToolTip": "C:\\Users\\MikeV\\source\\repos\\Authorization\\Helpers\\Navigating.cs",
+              "ToolTip": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\Helpers\\Navigating.cs",
               "RelativeToolTip": "Helpers\\Navigating.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,28 +165,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\MikeV\\source\\repos\\Authorization\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\MikeV\\source\\repos\\Authorization\\MainWindow.xaml",
+              "ToolTip": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T15:05:51.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T15:05:51.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MikeV\\source\\repos\\Authorization\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\MikeV\\source\\repos\\Authorization\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\777_Mike_777\\MGOK\\Template\\Authorization2\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T15:05:51.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T15:05:51.464Z"
             }
           ]
         }
